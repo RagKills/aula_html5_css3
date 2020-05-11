@@ -1,0 +1,36 @@
+body {
+    
+    background: rgb(195, 221, 228);
+    margin-left: 70px;
+    font-size: 30px;
+}
+header {
+    margin-left: 450px;
+    font-size: 30px;
+    color: rgb(4, 4, 129);
+    font-family: verdana;
+}
+
+h1 {
+    color: red;
+    font-family: fantasy;
+    margin-left: 530px;
+}
+
+h2 {
+    color: green;
+    font-family: helvetica;
+}
+
+img {
+   margin-bottom: 30px; 
+}
+
+nav {
+    margin-block-end: 50px;
+}
+
+footer {
+    margin-bottom: 50px;
+}
+
